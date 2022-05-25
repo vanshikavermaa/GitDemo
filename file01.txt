@@ -1,0 +1,7 @@
+This is my first file
+I am in second line
+end of file
+^Z
+
+type file01.txt
+copy con file01.txt
